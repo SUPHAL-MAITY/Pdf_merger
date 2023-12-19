@@ -1,0 +1,1 @@
+res.redirect("http://localhost:3000/static/merged.pdf")
